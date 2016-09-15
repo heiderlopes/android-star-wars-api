@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StarWarsApp</string>
+    <string name="label_altura">Altura </string>
+    <string name="label_cabelo">Cabelo </string>
+    <string name="label_nome">Nome</string>
+    <string name="label_olho">Olho</string>
+    <string name="label_pele">Pele</string>
+    <string name="label_peso">Peso</string>
+    <string name="label_pesquisar">Pesquisar</string>
+    <string name="label_sexo">Sexo</string>
+    <string name="label_id_personagem">ID Personagem</string>
+</resources>

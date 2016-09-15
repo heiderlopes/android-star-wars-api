@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StarWarsApp</string>
+    <string name="label_id_personagem">Character Id</string>
+    <string name="label_pesquisar">Search</string>
+    <string name="label_nome">Name</string>
+    <string name="label_altura">Height</string>
+    <string name="label_peso">Weight</string>
+    <string name="label_cabelo">Hair</string>
+    <string name="label_olho">Eye</string>
+    <string name="label_pele">Skin</string>
+    <string name="label_sexo">Gender</string>
+</resources>
